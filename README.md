@@ -5,6 +5,8 @@
 | Biologists | None | 4-session online workshop (~ 8 hours of trainer-led time)|
 
 ### Description
+This is a copy of the [Harvard Chan Bioinformatics Core (HBC)](http://bioinformatics.sph.harvard.edu/)'s **Introduction to R** workshop for the CCB-hosted workshop session.
+ 
 This repository has teaching materials for a hands-on **Introduction to R** workshop taught online. The workshop will introduce participants to the basics of R and RStudio. R is a simple programming environment that enables the effective handling of data, while providing excellent graphical support. RStudio is a tool that provides a user-friendly environment for working with R. These materials are intended to provide both basic R programming knowledge and its application for increasing efficiency for data analysis. 
 
 **Note for Trainers:** Please note that the schedule linked below assumes that learners will spend between 2-3 hours on reading through, and completing exercises from selected lessons between classes. The online component of the workshop focuses on more exercises and discussion/Q & A.
