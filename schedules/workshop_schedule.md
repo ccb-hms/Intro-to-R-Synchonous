@@ -171,7 +171,7 @@ I. Please **study the contents** and **work through all the code** within the fo
 II. **Complete the exercises**:
    * Each lesson above contains exercises; please go through each of them.
    * **Copy over** your code from the exercises into a text file. 
-   * **Upload the saved text file** to [Dropbox](https://www.dropbox.com/request/38gbHb5btT1PhHXtstOb) the **day before the next class**.
+   * **Upload the saved text file** to [Dropbox](https://www.dropbox.com/request/jLw5bC0YMkWa2clhCez6) the **day before the next class**.
    
 ### Questions?
 * ***If you get stuck due to an error*** while runnning code in the lesson, [email us](mailto:hbctraining@hsph.harvard.edu) 
