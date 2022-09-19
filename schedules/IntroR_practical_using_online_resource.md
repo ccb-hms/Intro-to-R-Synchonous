@@ -28,7 +28,7 @@ Download the most recent versions of R and RStudio:
 
 #### Questions?
 * ***If you get stuck due to an error*** while runnning code in the lesson, [email us](mailto:hbctraining@hsph.harvard.edu) 
-* Post any **conceptual questions** that you would like to have **reviewed in class** [here](https://docs.google.com/forms/d/e/1FAIpQLSdjxRW0oEwK5eqLKczZ5UIlhYLyyb85UUZJDnLjJRnvFmaLDA/viewform?usp=pp_url).
+* Post any **conceptual questions** that you would like to have **reviewed in class** [here](https://PollEv.com/ccbtraining).
 
 ## Schedule
 

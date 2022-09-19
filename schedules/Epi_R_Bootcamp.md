@@ -40,7 +40,7 @@ Download the most recent versions of R and RStudio:
 
 #### Questions?
 * ***If you get stuck due to an error*** while runnning code in the lesson, [email us](mailto:hbctraining@hsph.harvard.edu) 
-* Post any **conceptual questions** that you would like to have **reviewed in class** [here](https://PollEv.com/hbctraining945).
+* Post any **conceptual questions** that you would like to have **reviewed in class** [here](https://PollEv.com/ccbtraining).
 
 ### Day 2
 
@@ -63,7 +63,7 @@ Download the most recent versions of R and RStudio:
 
 #### Questions?
 * ***If you get stuck due to an error*** while runnning code in the lesson, [email us](mailto:hbctraining@hsph.harvard.edu) 
-* Post any **conceptual questions** that you would like to have **reviewed in class** [here](https://PollEv.com/hbctraining945).
+* Post any **conceptual questions** that you would like to have **reviewed in class** [here](https://PollEv.com/ccbtraining).
 
 ## Day 3
 

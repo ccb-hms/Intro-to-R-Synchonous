@@ -38,11 +38,11 @@ Download the most recent versions of R and RStudio:
 2. **Complete the exercises**:
    * Each lesson above contain exercises; please go through each of them.
    * **Copy over** your code from the exercises into a text file. 
-   * **Upload the saved text file** to [Dropbox](https://www.dropbox.com/request/FMuCw1CHhNHiG8y2i5CO) the **before noon on day of class**.
+   * **Upload the saved text file** to [Dropbox](https://www.dropbox.com/request/jLw5bC0YMkWa2clhCez6) the **before noon on day of class**.
    
 #### Questions?
 * ***If you get stuck due to an error*** while runnning code in the lesson, [email us](mailto:hbctraining@hsph.harvard.edu) 
-* Post any **conceptual questions** that you would like to have **reviewed in class** [here](https://PollEv.com/hbctraining945).
+* Post any **conceptual questions** that you would like to have **reviewed in class** [here](https://PollEv.com/ccbtraining).
 
 ---
 
@@ -66,7 +66,7 @@ Download the most recent versions of R and RStudio:
 2. **Complete the exercises**:
    * Each lesson above contain exercises; please go through each of them.
    * **Copy over** your code from the exercises into a text file. 
-   * **Upload the saved text file** to [Dropbox](https://www.dropbox.com/request/L18JhCyrwIKbLS39GoHs) the **before noon on day of class**.
+   * **Upload the saved text file** to [Dropbox](https://www.dropbox.com/request/jLw5bC0YMkWa2clhCez6) the **before noon on day of class**.
 
 3. Prepare for **in-class exercise**:
       * Download the [animals.csv](https://raw.githubusercontent.com/hbctraining/Intro-to-R-flipped/master/data/animals.csv), by right-clicking on the link and "Save Link As..." to place the file into the `data` directory.
@@ -75,7 +75,7 @@ Download the most recent versions of R and RStudio:
    
 #### Questions?
 * ***If you get stuck due to an error*** while runnning code in the lesson, [email us](mailto:hbctraining@hsph.harvard.edu) 
-* Post any **conceptual questions** that you would like to have **reviewed in class** [here](https://PollEv.com/hbctraining945).
+* Post any **conceptual questions** that you would like to have **reviewed in class** [here](https://PollEv.com/ccbtraining).
 
 ---
 
@@ -99,11 +99,11 @@ Download the most recent versions of R and RStudio:
 2. **Complete the exercises**:
    * Each lesson above contain exercises; please go through each of them.
    * **Copy over** your code from the exercises into a text file. 
-   * **Upload the saved text file** to [Dropbox](https://www.dropbox.com/request/mON2JWtCsbuEjrbogwBz) the **before noon on day of class**.
+   * **Upload the saved text file** to [Dropbox](https://www.dropbox.com/request/jLw5bC0YMkWa2clhCez6) the **before noon on day of class**.
    
 #### Questions?
 * ***If you get stuck due to an error*** while runnning code in the lesson, [email us](mailto:hbctraining@hsph.harvard.edu) 
-* Post any **conceptual questions** that you would like to have **reviewed in class** [here](https://PollEv.com/hbctraining945).
+* Post any **conceptual questions** that you would like to have **reviewed in class** [here](https://PollEv.com/ccbtraining).
 
 ---
 
