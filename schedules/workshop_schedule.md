@@ -44,8 +44,8 @@ II. **Complete the exercises**:
    * **Upload the saved text file** to [Dropbox](https://www.dropbox.com/request/4WGLNP2edpMfvB0TsNvM) the **day before the next class**.
    
 ### Questions?
-* ***If you get stuck due to an error*** while runnning code in the lesson, [email us](mailto:hbctraining@hsph.harvard.edu) 
-* Post any **conceptual questions** that you would like to have **reviewed in class** [here](https://PollEv.com/hbctraining945).
+* ***If you get stuck due to an error*** while runnning code in the lesson, [email us](mailto:christopher_magnano@hms.harvard.edu) 
+* Post any **conceptual questions** that you would like to have **reviewed in class** [here]( PollEv.com/ccbtraining).
 
 ---
 
