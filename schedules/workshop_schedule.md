@@ -6,7 +6,7 @@
 |:------------------------:|:------------------------------------------------:|:--------:|
 | 1:00 - 1:30 | [Workshop Introduction](../lectures/Intro_to_workshop_all.pdf) | All |
 | 1:30 - 2:45 | [Introduction to R and RStudio](../lessons/01_introR-R-and-RStudio.md) | Chris |
-| 2:45 - 1:00 | Overview of self-learning materials and homework submission | Will |
+| 2:45 - 3:00 | Overview of self-learning materials and homework submission | Will |
 
 ### Before the next class:
 
