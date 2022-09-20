@@ -45,7 +45,7 @@ II. **Complete the exercises**:
    
 ### Questions?
 * ***If you get stuck due to an error*** while runnning code in the lesson, [email us](mailto:christopher_magnano@hms.harvard.edu) 
-* Post any **conceptual questions** that you would like to have **reviewed in class** [here]( PollEv.com/ccbtraining).
+* Post any **conceptual questions** that you would like to have **reviewed in class** [here](https://www.PollEv.com/ccbtraining).
 
 ---
 
