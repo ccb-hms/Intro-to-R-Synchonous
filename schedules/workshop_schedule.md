@@ -11,7 +11,7 @@
 ### Before the next class:
 
 I. Please **study the contents** and **work through all the code** within the following lessons:
-   1. [R Syntax and Data Structure](https://hbctraining.github.io/Intro-to-R-flipped/lessons/02_introR-syntax-and-data-structures.html)
+   1. [R Syntax and Data Structure](../lessons/02_introR-syntax-and-data-structures.html)
       <details>
        <summary><i>Click here for a preview of this lesson</i></summary>
          <br>In order to utilize R effectively, you will need to understand what types of data you can use in R and also how you can store data in "objects" or "variables". <br><br>This lesson will cover:<br>
@@ -117,7 +117,7 @@ III. Prepare for **in-class exercise**:
    
 ### Questions?
 * ***If you get stuck due to an error*** while runnning code in the lesson, [email us](mailto:hbctraining@hsph.harvard.edu) 
-* Post any **conceptual questions** that you would like to have **reviewed in class** [here](https://PollEv.com/ccbtraining).
+* Post any **conceptual questions** that you would like to have **reviewed in class** [here](https://www.PollEv.com/ccbtraining)
 
 ---
 
@@ -126,8 +126,8 @@ III. Prepare for **in-class exercise**:
 | Time            |  Topic  | Instructor |
 |:------------------------:|:------------------------------------------------:|:--------:|
 | 1:00 - 1:35 | Questions about self-learning lessons | All |
-| 1:35 - 2:15 | [In-class exercises](../activities/Day3_activities.md) + [Answer key](../activities/Day3_activities_answer_key.R)| Will |
-| 2:15 - 3:00 | [Plotting with the ggplot2 package](../lessons/11_ggplot2.md) | Chris |
+| 1:35 - 2:15 | [In-class exercises](../activities/Day3_activities.md) + [Answer key](../activities/Day3_activities_answer_key.R)| Chris |
+| 2:15 - 3:00 | [Plotting with the ggplot2 package](../lessons/11_ggplot2.md) | Will |
 
 ### Before the next class:
 
@@ -189,13 +189,13 @@ II. **Complete the exercises**:
 | 2:45 - 3:00 | [Wrap Up](..//lectures/R_workshop_wrapup_all.pdf) | Chris |
 
 ### Final Exercises
-* [**Exercises**](https://hbctraining.github.io/Intro-to-R/homework/Intro_to_R_hw.html)
+* [**Exercises**](../homework/Intro_to_R_hw.html)
 
 ### Answer Keys
 * [**Day 1 homework**](../homework/day1_hw_answer-key.R)
 * [**Day 2 homework**](../homework/day2_hw_answer-key.R)
 * [**Day 3 homework**](../homework/day3_hw_answer-key.R)
-* [**Final exercises**](https://hbctraining.github.io/Intro-to-R/homework/Intro_to_R_key.html)
+* [**Final exercises**](../homework/Intro_to_R_key.html)
 
 ## Building on the basic R knowledge
 * [DGE workshop](https://hbctraining.github.io/DGE_workshop_salmon/)
